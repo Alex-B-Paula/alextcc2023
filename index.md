@@ -10,6 +10,8 @@
 <p>Imagens</p>
 <a href="imagens/modelo_dimensional.png">Modelo Dimensional</a>
 
+![Modelo dimensional](imagens/modelo_dimensional.png)
+
 
 <p>Autorizo o uso livre dos arquivos hospedados aqui, desde que propriamente creditado</p>
 </body>
